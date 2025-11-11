@@ -5,7 +5,7 @@ It applies key financial concepts such as risk–return trade-offs, efficient fr
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 - Evaluated mutual fund returns, volatility, and diversification metrics.
 - Built and optimized portfolios using mean–variance optimization techniques.
 - Visualized portfolio performance using the Efficient Frontier framework.
@@ -13,17 +13,17 @@ It applies key financial concepts such as risk–return trade-offs, efficient fr
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - **Python** (Pandas, NumPy, Matplotlib, SciPy, statsmodels)
 - **Jupyter Notebook**
 - **Portfolio Optimization** and **Data Visualization**
 
 ---
 
-## 📁 Files
+## Files
 - `Asset_Management_Analysis.ipynb` — Main analysis and portfolio optimization notebook.
 
 ---
 
-## 👨‍💻 Author
+## Author
 Developed as part of the **Asset Management** course project (2025) by *Wael Zammit Chatti*.
